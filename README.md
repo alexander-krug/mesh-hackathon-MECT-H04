@@ -1,5 +1,5 @@
 # mesh-hackathon-MECT-H04
-https://www.figma.com/proto/e2EE37P5V8OT6IXhuX5gfS/
+Link zu FIGMA: https://www.figma.com/proto/e2EE37P5V8OT6IXhuX5gfS/
 
 ![image](https://user-images.githubusercontent.com/101502070/158055222-b94d7420-5423-497f-93cf-877b868fe210.png)
 ![image](https://user-images.githubusercontent.com/101502070/158055232-9cbe9f87-9aa0-44b7-ac77-bb3b18e6aeb3.png)
